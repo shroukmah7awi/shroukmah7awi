@@ -1,21 +1,20 @@
-## Hi there 👋
-
-<!--# 👋 Hi, I'm Shrouk El-Mahalawy
+# 👋 Hi, I'm Shrouk El-Mahalawy
 
 ## 👩‍💻 About Me
 - 🎓 AI student, passionate about coding and problem solving.  
-- 💻 Interested in Data Structures, Python, C++, and C#.  
+- 💻 Interested in **Python, C++, C#** and Data Structures.  
 - 🎭 Acting is my favorite hobby.  
 - 🚀 Always learning and building new projects.  
 
 ---
 
 ## 🛠️ Languages and Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -29,25 +28,11 @@
 ---
 
 ## 🌱 Current Focus
-- Enhancing my knowledge in **Linked Lists** and **Stack**.  
-- Practicing **problem solving** on Codeforces.  
-- Building projects to improve my portfolio.  
+- Practicing **Linked Lists** and **Stack** in programming.  
+- Solving problems on **Codeforces**.  
+- Learning more about **AI & OOP**.  
 
 ---
 
 ## ✨ Fun Fact
 I love combining creativity (🎭 acting) with logic (💻 coding).
-
-**shroukmah7awi/shroukmah7awi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
